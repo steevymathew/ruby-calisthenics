@@ -1,4 +1,4 @@
-Ruby Calisthenics
+Ruby Calisthenics - Steevy Mathew
 =================
 
 The goal of this multi-part assignment is to get you accustomed to basic
